@@ -1,0 +1,66 @@
+# =========================
+# Core rule: ignore everything by default
+# =========================
+*
+
+# =========================
+# Allow only what we explicitly want
+# =========================
+
+!.gitignore
+!README.md
+
+# Keep FFXIV config root
+!ffxivConfig/
+ffxivConfig/*
+
+# Allow core config files
+!ffxivConfig/FFXIV.cfg
+
+# Allow all character configs
+!ffxivConfig/FFXIV_CHR*/
+!ffxivConfig/FFXIV_CHR*/**
+
+# Optional backups
+!ffxivConfig/cfgcopy/
+!ffxivConfig/cfgcopy/**
+
+# =========================
+# Explicit ignores (sensitive / unnecessary)
+# =========================
+
+# Accounts (DO NOT COMMIT)
+accounts.json
+
+# Dalamud runtime/cache/config
+dalamud/
+dalamudAssets/
+dalamudConfig.json
+dalamudUI.ini
+dalamudVfs.db
+
+# Plugins and plugin configs
+installedPlugins/
+pluginConfigs/
+
+# Logs, temp, runtime junk
+logs/
+temp/
+runtime/
+
+# Game install / patches
+ffxiv/
+patch/
+
+# Wine / Proton environment
+wineprefix/
+
+# Launcher config (machine-specific)
+launcher.ini
+launcherUI.ini
+
+# Compatibility tools
+compatibilitytool/
+
+# Screenshots
+ffxivConfig/screenshots/
