@@ -2,6 +2,8 @@
 
 This repository contains a minimal, version-controlled backup of my FINAL FANTASY XIV configuration when using XIVLauncher on Linux.
 
+![XIVLauncher](img/ffxiv/xivlauncher.png)
+
 ## 🔗 Repository
 ```
 git@github.com:Querzion/.xlcore.git
