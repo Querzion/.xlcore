@@ -25,6 +25,10 @@ ffxivConfig/*
 !ffxivConfig/cfgcopy/
 !ffxivConfig/cfgcopy/**
 
+# Allow images (if they are in this folder.)
+!.img/
+!.img/**
+
 # =========================
 # Explicit ignores (sensitive / unnecessary)
 # =========================
