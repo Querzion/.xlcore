@@ -31,7 +31,7 @@ Only essential configuration files are tracked.
 This repository also includes configuration references for crafting and gathering jobs.
 
 
-![Hud Layout - UI](.img/ffxiv/layout.png)
+![Hud Layout - UI](img/ffxiv/layout.png)
 
 ## 🌿 Disciples of the Land
 
@@ -109,7 +109,7 @@ This repository also includes configuration references for crafting and gatherin
 - Bar 3: 
 - Bar 4: Return
 ```
-![Botanist UI](.img/ffxiv/botanist.png)
+![Botanist UI](img/ffxiv/botanist.png)
 
 ### FFXIV Actions Keybind - Fisher
 ```
@@ -185,7 +185,7 @@ This repository also includes configuration references for crafting and gatherin
 - Bar 3: Spareful Hand
 - Bar 4: Return
 ```
-![Fisher UI](.img/ffxiv/fisher.png)
+![Fisher UI](img/ffxiv/fisher.png)
 
 ## FFXIV Actions Keybind - Miner
 ```
@@ -261,7 +261,7 @@ This repository also includes configuration references for crafting and gatherin
 - Bar 3: 
 - Bar 4: Return
 ```
-![Miner UI](.img/ffxiv/miner.png)
+![Miner UI](img/ffxiv/miner.png)
 
 ---
 
@@ -350,7 +350,7 @@ This repository also includes configuration references for crafting and gatherin
 - Bar 4: Trained Perfection
 ```
 
-![Crafters UI](.img/ffxiv/crafters.png)
+![Crafters UI](img/ffxiv/crafters.png)
 
 ---
 
