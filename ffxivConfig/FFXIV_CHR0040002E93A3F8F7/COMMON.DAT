@@ -314,7 +314,7 @@ Log	0
 LogTell	0
 LogFontSize	12
 LogTabName2	Event
-LogTabName3	
+LogTabName3	Free　Company
 LogTabFilter0	0
 LogTabFilter1	1
 LogTabFilter2	2
@@ -475,7 +475,7 @@ LogChatBubbleCwls8ShowType	1
 LogChatBubbleCwls8FontColor	0
 LogChatBubbleCwls8WindowColor	0
 LogPermeationRateInput	40
-ChatType	1
+ChatType	6
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
