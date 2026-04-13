@@ -75,7 +75,7 @@ TimeLocal	1
 TimeServer	0
 ActiveLS_H	0
 ActiveLS_L	0
-HotbarLock	1
+HotbarLock	0
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
 HotbarDispRecastTimeDispType	0
@@ -475,7 +475,7 @@ LogChatBubbleCwls8ShowType	1
 LogChatBubbleCwls8FontColor	0
 LogChatBubbleCwls8WindowColor	0
 LogPermeationRateInput	40
-ChatType	6
+ChatType	7
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358

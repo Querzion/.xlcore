@@ -475,7 +475,7 @@ LogChatBubbleCwls8ShowType	1
 LogChatBubbleCwls8FontColor	0
 LogChatBubbleCwls8WindowColor	0
 LogPermeationRateInput	40
-ChatType	6
+ChatType	1
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
